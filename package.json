@@ -1,0 +1,21 @@
+{
+    "type": "module",
+    "scripts": {
+        "build": "tsc",
+        "db": "npm run build && node dist/create-db.js",
+        "y-range": "npm run build && node dist/create-db.js && node dist/measure-lightness-y-range.js",
+        "test-contrast": "npm run build && node dist/create-db.js && node dist/precompute-lightness.js && node dist/test-color-contrast.js"
+    },
+    "dependencies": {
+        "better-sqlite3": "^12.4.1",
+        "bloom-filters": "^3.0.4",
+        "colorjs.io": "^0.6.0-alpha.1",
+        "wcag-contrast": "^3.0.0"
+    },
+    "devDependencies": {
+        "@types/better-sqlite3": "^7.6.13",
+        "@types/node": "^24.9.1",
+        "@types/wcag-contrast": "^3.0.3",
+        "typescript": "^5.9.3"
+    }
+}
