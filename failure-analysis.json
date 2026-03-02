@@ -1,0 +1,782 @@
+{
+  "totalTests": 1000000,
+  "totalFailures": 99657,
+  "overallFailureRate": 9.9657,
+  "distance": 520,
+  "hueAnalysis": [
+    {
+      "range": "330-360°",
+      "count": 42233,
+      "failureRate": 21.189178883570648
+    },
+    {
+      "range": "300-330°",
+      "count": 41429,
+      "failureRate": 20.785795277802862
+    },
+    {
+      "range": "0-30°",
+      "count": 33827,
+      "failureRate": 16.971712975505984
+    },
+    {
+      "range": "270-300°",
+      "count": 22133,
+      "failureRate": 11.10458873937606
+    },
+    {
+      "range": "240-270°",
+      "count": 15465,
+      "failureRate": 7.759113760197478
+    },
+    {
+      "range": "120-150°",
+      "count": 12069,
+      "failureRate": 6.055269574641018
+    },
+    {
+      "range": "30-60°",
+      "count": 11844,
+      "failureRate": 5.942382371534363
+    },
+    {
+      "range": "150-180°",
+      "count": 6130,
+      "failureRate": 3.075549133528001
+    },
+    {
+      "range": "90-120°",
+      "count": 3924,
+      "failureRate": 1.9687528221800774
+    },
+    {
+      "range": "210-240°",
+      "count": 3670,
+      "failureRate": 1.8413157128952307
+    },
+    {
+      "range": "60-90°",
+      "count": 3306,
+      "failureRate": 1.6586893043137965
+    },
+    {
+      "range": "180-210°",
+      "count": 3284,
+      "failureRate": 1.6476514444544788
+    }
+  ],
+  "saturationAnalysis": [
+    {
+      "range": "0.9-1.0",
+      "count": 89073,
+      "failureRate": 44.68978596586291
+    },
+    {
+      "range": "0.8-0.9",
+      "count": 33628,
+      "failureRate": 16.871870515869432
+    },
+    {
+      "range": "0.7-0.8",
+      "count": 22232,
+      "failureRate": 11.154259108742988
+    },
+    {
+      "range": "0.6-0.7",
+      "count": 14865,
+      "failureRate": 7.458081218579729
+    },
+    {
+      "range": "0.5-0.6",
+      "count": 10363,
+      "failureRate": 5.199333714641219
+    },
+    {
+      "range": "0.4-0.5",
+      "count": 8011,
+      "failureRate": 4.019286151499644
+    },
+    {
+      "range": "0.3-0.4",
+      "count": 6149,
+      "failureRate": 3.08508183067923
+    },
+    {
+      "range": "1.0-1.1",
+      "count": 5652,
+      "failureRate": 2.835726542039194
+    },
+    {
+      "range": "0.2-0.3",
+      "count": 4520,
+      "failureRate": 2.2677784801870415
+    },
+    {
+      "range": "0.1-0.2",
+      "count": 2772,
+      "failureRate": 1.3907703422739999
+    },
+    {
+      "range": "0.0-0.1",
+      "count": 2049,
+      "failureRate": 1.0280261296246125
+    }
+  ],
+  "hueSaturationGrid": [
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.9-1.0",
+      "count": 21449
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.9-1.0",
+      "count": 19994
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.9-1.0",
+      "count": 18033
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.8-0.9",
+      "count": 8270
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.8-0.9",
+      "count": 7927
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.9-1.0",
+      "count": 7157
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.9-1.0",
+      "count": 6450
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.9-1.0",
+      "count": 6296
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.9-1.0",
+      "count": 5793
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.8-0.9",
+      "count": 5550
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.7-0.8",
+      "count": 5444
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.7-0.8",
+      "count": 4941
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.8-0.9",
+      "count": 4383
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.7-0.8",
+      "count": 3176
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.7-0.8",
+      "count": 3008
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.6-0.7",
+      "count": 2989
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.6-0.7",
+      "count": 2739
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.6-0.7",
+      "count": 2298
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.8-0.9",
+      "count": 2128
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.9-1.0",
+      "count": 1817
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.6-0.7",
+      "count": 1784
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.5-0.6",
+      "count": 1671
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.5-0.6",
+      "count": 1632
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.5-0.6",
+      "count": 1592
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.7-0.8",
+      "count": 1549
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.8-0.9",
+      "count": 1510
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.8-0.9",
+      "count": 1359
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.6-0.7",
+      "count": 1308
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "1.0-1.1",
+      "count": 1290
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "1.0-1.1",
+      "count": 1277
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.4-0.5",
+      "count": 1184
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.4-0.5",
+      "count": 1183
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.0-0.1",
+      "count": 1162
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.5-0.6",
+      "count": 1132
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "1.0-1.1",
+      "count": 1072
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.5-0.6",
+      "count": 1057
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.4-0.5",
+      "count": 984
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.7-0.8",
+      "count": 956
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.3-0.4",
+      "count": 899
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.7-0.8",
+      "count": 886
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.4-0.5",
+      "count": 865
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.8-0.9",
+      "count": 843
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.3-0.4",
+      "count": 794
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.4-0.5",
+      "count": 778
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.6-0.7",
+      "count": 778
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.6-0.7",
+      "count": 766
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.3-0.4",
+      "count": 683
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.5-0.6",
+      "count": 680
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.9-1.0",
+      "count": 675
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.3-0.4",
+      "count": 638
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.3-0.4",
+      "count": 616
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.9-1.0",
+      "count": 613
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.7-0.8",
+      "count": 606
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.6-0.7",
+      "count": 589
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.2-0.3",
+      "count": 576
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.4-0.5",
+      "count": 568
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.5-0.6",
+      "count": 536
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.4-0.5",
+      "count": 504
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "1.0-1.1",
+      "count": 501
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.9-1.0",
+      "count": 501
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.5-0.6",
+      "count": 500
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.2-0.3",
+      "count": 495
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.3-0.4",
+      "count": 489
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.7-0.8",
+      "count": 478
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.2-0.3",
+      "count": 474
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.8-0.9",
+      "count": 467
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.2-0.3",
+      "count": 463
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.6-0.7",
+      "count": 459
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.7-0.8",
+      "count": 453
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.4-0.5",
+      "count": 436
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.8-0.9",
+      "count": 433
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.4-0.5",
+      "count": 433
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.2-0.3",
+      "count": 429
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.5-0.6",
+      "count": 428
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.6-0.7",
+      "count": 420
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.5-0.6",
+      "count": 412
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.4-0.5",
+      "count": 401
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.8-0.9",
+      "count": 397
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.3-0.4",
+      "count": 396
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.3-0.4",
+      "count": 393
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.2-0.3",
+      "count": 385
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.7-0.8",
+      "count": 384
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.6-0.7",
+      "count": 374
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.5-0.6",
+      "count": 368
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "1.0-1.1",
+      "count": 362
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.8-0.9",
+      "count": 361
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.6-0.7",
+      "count": 361
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.5-0.6",
+      "count": 355
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.7-0.8",
+      "count": 351
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.4-0.5",
+      "count": 349
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.2-0.3",
+      "count": 343
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.3-0.4",
+      "count": 333
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.3-0.4",
+      "count": 331
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.4-0.5",
+      "count": 326
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.2-0.3",
+      "count": 317
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "1.0-1.1",
+      "count": 308
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.1-0.2",
+      "count": 308
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.9-1.0",
+      "count": 295
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.3-0.4",
+      "count": 291
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.1-0.2",
+      "count": 290
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.2-0.3",
+      "count": 287
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.1-0.2",
+      "count": 286
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.3-0.4",
+      "count": 286
+    },
+    {
+      "hueRange": "0-30°",
+      "saturationRange": "0.1-0.2",
+      "count": 263
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.2-0.3",
+      "count": 256
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.2-0.3",
+      "count": 251
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "1.0-1.1",
+      "count": 246
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.2-0.3",
+      "count": 244
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.1-0.2",
+      "count": 241
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "1.0-1.1",
+      "count": 235
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.1-0.2",
+      "count": 218
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.1-0.2",
+      "count": 211
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.1-0.2",
+      "count": 210
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.1-0.2",
+      "count": 193
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.1-0.2",
+      "count": 192
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.1-0.2",
+      "count": 189
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "1.0-1.1",
+      "count": 177
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.1-0.2",
+      "count": 171
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "1.0-1.1",
+      "count": 168
+    },
+    {
+      "hueRange": "300-330°",
+      "saturationRange": "0.0-0.1",
+      "count": 99
+    },
+    {
+      "hueRange": "120-150°",
+      "saturationRange": "0.0-0.1",
+      "count": 96
+    },
+    {
+      "hueRange": "240-270°",
+      "saturationRange": "0.0-0.1",
+      "count": 88
+    },
+    {
+      "hueRange": "90-120°",
+      "saturationRange": "0.0-0.1",
+      "count": 85
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "0.0-0.1",
+      "count": 84
+    },
+    {
+      "hueRange": "30-60°",
+      "saturationRange": "0.0-0.1",
+      "count": 80
+    },
+    {
+      "hueRange": "270-300°",
+      "saturationRange": "0.0-0.1",
+      "count": 78
+    },
+    {
+      "hueRange": "150-180°",
+      "saturationRange": "0.0-0.1",
+      "count": 75
+    },
+    {
+      "hueRange": "60-90°",
+      "saturationRange": "0.0-0.1",
+      "count": 75
+    },
+    {
+      "hueRange": "330-360°",
+      "saturationRange": "0.0-0.1",
+      "count": 67
+    },
+    {
+      "hueRange": "210-240°",
+      "saturationRange": "0.0-0.1",
+      "count": 60
+    },
+    {
+      "hueRange": "180-210°",
+      "saturationRange": "1.0-1.1",
+      "count": 16
+    }
+  ]
+}

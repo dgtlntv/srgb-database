@@ -4,7 +4,8 @@
         "build": "tsc",
         "db": "npm run build && node dist/create-db.js",
         "y-range": "npm run build && node dist/create-db.js && node dist/measure-lightness-y-range.js",
-        "test-contrast": "npm run build && node dist/create-db.js && node dist/precompute-lightness.js && node dist/test-color-contrast.js"
+        "test-contrast": "npm run build && node dist/create-db.js && node dist/precompute-lightness.js && node dist/test-color-contrast.js",
+        "analyze-failures": "npm run build && node dist/create-db.js && node dist/precompute-lightness.js && node --max-old-space-size=16384 dist/analyze-failing-colors.js"
     },
     "dependencies": {
         "better-sqlite3": "^12.4.1",
